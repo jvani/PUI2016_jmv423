@@ -29,7 +29,7 @@ Below is a working example of pui2016:
 See PUI2016_jmv423/HW1_jmv423/HW1_3_jmv423.ipynb
 
 1. Generated one reproducible 2x100 array of random numbers.
-2. Produce 50 2x100 arrays with the mean increasing 0.25xi for each array 0:50.
+2. Produced 50 2x100 arrays with the mean increasing 0.25xi for each array 0:50.
 3. Modified the 50 arrays so the mean of the x axis increased by 0.25(i) and the mean of the y axis increased by 0.5(i).
 4. Plotted both sets of 50x2x100 arrays.
 
