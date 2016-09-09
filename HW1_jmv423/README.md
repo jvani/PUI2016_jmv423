@@ -2,7 +2,7 @@
 Jordan Vani (09/09/206)
 
 ###Task 1: Set up environmental variable and alias
-1. To set up the environmental variable, I logged into compute and added the PUI2106 variable and pui2016 alias my .bash_profile in nano. 
+1. To set up the environmental variable, I logged into compute and added the PUI2016 variable and pui2016 alias my .bash_profile in nano. 
 2. After saving and exiting nano I reloaded my .bash_profile by using:
   ```
 	. .bash_profile 
