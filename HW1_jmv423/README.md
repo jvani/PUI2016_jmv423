@@ -6,7 +6,7 @@ See https://github.com/jvani/gittest_jvani
 
 1. Created a repo and file.
 2. Fixed merge conflict.
-3. Forked repos from Ben Miller & Ian Wright.
+3. Forked repos from Ben Miller, Ian Wright, and Ian Stuart.
 4. Merged both of their pull requests into my file.
 
 ###Assignment 2: Set up environmental variable and alias
@@ -35,7 +35,7 @@ See PUI2016_jmv423/HW1_jmv423/HW1_3_jmv423.ipynb
 
 ###Work Breakdown
 ####Assignment 1
-Jordan Vani created repo & .txt file, resolved merge conflict, forked Ben Miller's & Ian Wright's repo, merged their pull requests to my repo. Ben Miller & Ian Wright forked my repo and accepted my pull requests.
+Jordan Vani created repo & .txt file, resolved merge conflict, forked Ben Miller's, Ian Wright's, and Ian Stuart's repo, merged their pull requests to my repo. Ben Miller, Ian Wright, and Ian Stuart forked my repo and accepted my pull requests.
 ####Assignment 2
 All work completed by Jordan Vani.
 ####Assignment 3
