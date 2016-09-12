@@ -7,7 +7,7 @@ See https://github.com/jvani/gittest_jvani
 1. Created a repo and file.
 2. Fixed merge conflict.
 3. Forked repos from Ben Miller, Ian Wright, and Ian Stuart.
-4. Merged both of their pull requests into my file.
+4. Merged their pull requests into my file.
 
 ###Assignment 2: Set up environmental variable and alias
 1. To set up the environmental variable, I logged into compute and added the PUI2016 variable and pui2016 alias my .bash_profile in nano. 
