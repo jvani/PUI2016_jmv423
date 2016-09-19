@@ -5,7 +5,7 @@ Jordan Vani (09/18/206)
 See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/show_bus_locations_jmv423.py
 #####Note: Script was written to be used in Python 3.5.1
 1. ```[Lines 9:11]``` Import required modules and subpackages (sys, json, and urllib.request).
-2. ```[Lines 15:16]``` When accessed through the terminal via "python show_bus_location_jmv423.py xxxx-xxxx-xxxx-xxxx-xxxx \<BUS_LINE>" a list of system argument variables is created deliminated by spaces. The list items are assigned to local variables. The list items correspond to the system variables as follows:
+2. ```[Lines 15:16]``` When accessed through the terminal via "python show_bus_location_jmv423.py xxxx-xxxx-xxxx-xxxx-xxxx \<BUS_LINE>" a list of system argument variables is created. The list items are assigned to local variables. The list items correspond to the system variables as follows:
     1.  ```sys.argv[0] = show_bus_location_jmv423.py```
     2.  ```sys.argv[1] = userkey = xxxx-xxxx-xxxx-xxxx-xxxx```
     3.  ```sys.argv[2] = busnum = \<BUS_LINE>```
@@ -15,7 +15,7 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/show_bus_loc
     2. ```charset = response.info().get_content_charset()``` Returns the character set utilized in the response and assigns the string to a local variable.
     3. ```data = response.read().decode(charset)``` Decodes the response using the defined character set and assigns the return to 'data'.
     4. ```data = json.loads(data)``` Reformats the json data to a python dictionary object and assigns it to 'data'.
-5. ```[Lines 27:32]``` Extracts from the 'data' dictionary, formats, and prints output for each bus.
+5. ```[Lines 27:32]``` Extracts from the 'data' dictionary, formats, and prints the output for each bus.
 
 #####Example:
 <img src="show_bus_locations_jmv423.png" alt="Assignment 1: my terminal output" width="600">	
@@ -51,7 +51,6 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/HW2_jmv423.i
 
 ####Work Breakdown
 All code written by Jordan Vani. Conceptual planning done with Francis Ko.
-
 
 ###Assignment 4: Work with dates in Pandas
 See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/HW2_jmv423.ipynb
