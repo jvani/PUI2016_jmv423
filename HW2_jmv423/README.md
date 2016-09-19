@@ -38,6 +38,25 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/get_bus_info
 #####Example:
 <img src="get_bus_info_jmv423.png" alt="Assignment 2: my terminal output" width="600">	
 
-
 ####Work Breakdown
 All code written by Jordan Vani. Syntax and design reviewed with Francis Ko, Shay Lehmann, and Ian Stuart.
+
+###Assignment 3: Read CSV files with pandas
+See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/HW2_jmv423.ipynb
+
+1. import python packages and subpackages.
+2. Assign DF data to local variable and read data to pandas dataframe.
+3. Dropped columns by reassigning df object to a subset of columns.
+4. Visualized data using matplotlib.
+
+####Work Breakdown
+All code written by Jordan Vani. Conceptual planning done with Francis Ko.
+
+
+###Assignment 4: Work with dates in Pandas
+See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/HW2_jmv423.ipynb
+
+1. Assign DF data to local variable and read data to pandas dataframe.
+2. Dropped columns by reassigning df object to a subset of columns.
+3. Renamed dataframe headings and reformatted date string using ```pd.to_datetime()```
+4. Visualized data using matplotlib.
