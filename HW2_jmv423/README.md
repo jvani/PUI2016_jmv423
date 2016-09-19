@@ -15,7 +15,7 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/show_bus_loc
     2. ```charset = response.info().get_content_charset()``` Returns the character set utilized in the response and assigns the string to a local variable.
     3. ```data = response.read().decode(charset)``` Decodes the response using the defined character set and assigns the return to 'data'.
     4. ```data = json.loads(data)``` Reformats the json data to a python dictionary object and assigns it to 'data'.
-5. ```[Lines 27:32]``` Extracts, formats, and prints output for each bus.
+5. ```[Lines 27:32]``` Extracts from the 'data' dictionary, formats, and prints output for each bus.
 
 #####Example:
 <img src="show_bus_locations_jmv423.png" alt="Assignment 1: my terminal output" width="600">	
@@ -24,7 +24,20 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/show_bus_loc
 All code written by Jordan Vani. Syntax and design reviewed with Francis Ko, Shay Lehmann, and Ian Stuart.
 
 ###Assignment 2: next stop information
+
 See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/get_bus_info_jmv423.py
+#####Note: Script was written to be used in Python 3.5.1
+1. ```[Lines 9:26]``` Correspond to the README.md documentation of #1-#4 for Assignment 1. With the following changes:
+        1. Pandas is imported
+        2. A third argument variable is accessed and assigned ```outputfile = sys.argv[3] = <CSV file name>```
+2. ```[Line 31]``` Create pandas dataframe to append bus data to.
+3. ```[Line 32-41]``` Within for loop for each bus, dictionary items are assigned to local variables. The variables are added to the pandas dataframe.
+4. ```[Line 36:37 and 39:40]``` Check if stopname and stopstatus dictionary locations are empty. If empty, reassign local variables to 'N/A'
+5. ```[Line 42]``` Pandas dataframe is written to csv as named by user input.
+
+#####Example:
+<img src="get_bus_info_jmv423.png" alt="Assignment 2: my terminal output" width="600">	
+
 
 ####Work Breakdown
 All code written by Jordan Vani. Syntax and design reviewed with Francis Ko, Shay Lehmann, and Ian Stuart.
