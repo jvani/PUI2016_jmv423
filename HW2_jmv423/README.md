@@ -60,3 +60,6 @@ See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW2_jmv423/HW2_jmv423.i
 2. Dropped columns by reassigning df object to a subset of columns.
 3. Renamed dataframe headings and reformatted date string using ```pd.to_datetime()```
 4. Visualized data using matplotlib.
+
+####Work Breakdown
+All code written by Jordan Vani. Conceptual planning done with Francis Ko.
