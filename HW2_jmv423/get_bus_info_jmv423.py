@@ -42,5 +42,3 @@ for x in range(buscount):
 df.to_csv(path_or_buf = outputfile)
 print('Requested bus info has been written to csv.')
 print(df)
-
-##Change stopstatus from monitoredcall to onward call
