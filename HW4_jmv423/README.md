@@ -1,7 +1,7 @@
 #HW4_jmv423
 Jordan Vani (DATE)
 
-###Assignment 1: 
+###Assignment 1:  Review Citibike Proposal
 See markdown file here: https://github.com/jvani/PUI2016_nm2773/blob/master/HW3_nm2773/CitibikeReview_jmv423.md
 
 Pull request submitted 10/01/2016.
@@ -19,10 +19,14 @@ Multiple Regression | (1) Commercial Sex Workers % of Pop, (2) GINI Measure of I
 ####Work Breakdown
 Papers selected and reviewed with Ian Stuart.
 
-###Assignment 3: 
+###Assignment 3: Reproduce the analysis of the Hard to Employ program in NY
 1. Hypotheses were formulated and statistical significance levels set.
 2. Z-test was performed, null hypothesis was not rejected.
 2. Chi square test was performed, null hypothesis was not rejected.
 
 ####Work Breakdown
 Work was done with Tashay Green.
+
+###Assignment 4: Tests of correlation using the scipy package with citibike data
+
+####Work Breakdown
