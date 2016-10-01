@@ -1,10 +1,13 @@
 #HW4_jmv423
 Jordan Vani (DATE)
 
-###Assignment 1:  
+###Assignment 1: 
+See markdown file here: https://github.com/jvani/PUI2016_nm2773/blob/master/HW3_nm2773/CitibikeReview_jmv423.md
+
+Pull request submitted 10/01/2016.
 
 ####Work Breakdown
-
+All work done by Jordan Vani
 
 ###Assignment 2: Literature choices of statistical tests.
 
