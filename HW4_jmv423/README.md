@@ -20,5 +20,9 @@ Multiple Regression | (1) Commercial Sex Workers % of Pop, (2) GINI Measure of I
 Papers selected and reviewed with Ian Stuart.
 
 ###Assignment 3: 
+1. Hypotheses were formulated and statistical significance levels set.
+2. Z-test was performed, null hypothesis was not rejected.
+2. Chi square test was performed, null hypothesis was not rejected.
 
 ####Work Breakdown
+Work was done with Tashay Green.
