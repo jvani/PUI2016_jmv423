@@ -17,6 +17,7 @@ T-test              | (1) Fighting Stance                                       
 Multiple Regression | (1) Commercial Sex Workers % of Pop, (2) GINI Measure of Income Inequality, (3) % Pop Muslim, (4) Female Illiteracy Rate| Continuous  | (1) HIV rate  | Continuous | 0           | NA               | Is there a relationship the % of commercial sex workers in a pop, inequality, the % of Muslims, and female illiteracy with HIV rates? | Ho: There is no relationship between the % of commercial sex workers in a pop, inequality, the % of Muslims, and female illiteracy with HIV rates? | alpha = 0.05  | [Size Matters: The Number of Prostitutes and the Global HIV/AIDS Pandemic](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000543) 
 
 ####Work Breakdown
+Papers selected and reviewed with Ian Stuart.
 
 ###Assignment 3: 
 
