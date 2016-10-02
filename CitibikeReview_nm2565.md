@@ -1,0 +1,2 @@
+The null and the alternate hypothesis have been stated very clearly and the variables needed to test the hypothesis – date or days of the week and number of passes bought are also clearly tabulated.  An appropriate test to test the hypothesis would be the T test which will look at the differences between the number of 24 hour passes which is a dependent variable, bought on the weekend and the number of passes bought on the weekdays.  
+
