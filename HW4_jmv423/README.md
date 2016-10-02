@@ -21,6 +21,8 @@ Multiple Regression | (1) Commercial Sex Workers % of Pop, (2) GINI Measure of I
 Papers selected and reviewed with Ian Stuart.
 
 ###Assignment 3: Reproduce the analysis of the Hard to Employ program in NY
+See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW4_jmv423/Assignment3_jmv423.ipynb
+
 1. Hypotheses were formulated and statistical significance levels set.
 2. Z-test was performed, null hypothesis was not rejected.
 2. Chi square test was performed, null hypothesis was not rejected.
@@ -29,6 +31,8 @@ Papers selected and reviewed with Ian Stuart.
 Work was done with Tashay Green.
 
 ###Assignment 4: Tests of correlation using the scipy package with citibike data
+See: https://github.com/jvani/PUI2016_jmv423/blob/master/HW4_jmv423/Assignment4_jmv423.ipynb
+
 1. Data was accessed (directly from citibike), unzipped, and loaded into a pandas dataframe. 
 2. KS test was completed on the  male and female distributions (null was rejected).
 3. KS test was completed on a subsample (every 200th row) of the male and female distributions (null was rejected).
