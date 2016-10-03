@@ -1,0 +1,9 @@
+a. Null hypothesis and alternative hypothesis are formulated correctly.  
+
+b. Data that supports the project has appropriate features: date of purchase and 24-hour passes purchased. 
+The given data was pre-processed and extracted ptoperly.    
+
+c. In my opinion, in order to test null hypothesis it is appropriate to chose t-test. 
+T-test compares whether two groups (weekends and weekdays) have different average values (number of 24-hours passes purchased). 
+This test will help to determine if null hypothesis have to be rejected or not.   
+
