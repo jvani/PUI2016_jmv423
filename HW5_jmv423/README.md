@@ -25,7 +25,7 @@ All work done by Jordan Vani
 ####Work Breakdown
 All work done by Jordan Vani
 
-##Assignment 3:
+##Assignment 3: Practice formulating the null hypothesis
 ####Do diets help lose more fat than excercise?
 Ho: Diets help lose an equal or less amount (lbs) of fat than does excercise (p = 0.05). Diets <= Excercise
 
@@ -44,3 +44,5 @@ Ha: Nicotine patches cause cessation rates to be larger than with the control pa
 Ho: The IQ of children with mothers who smoked during their pregnancy is equal or greater than children whose mothers did not smoke. IQs >= IQn.
 
 Ha: The IQ of children with mothers who smoked during their pregnancy is less than children whose mothers did not smoke. IQs < IQn.
+####Work Breakdown
+All work done by Jordan Vani
