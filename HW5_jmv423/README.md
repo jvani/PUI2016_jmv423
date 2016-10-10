@@ -31,9 +31,9 @@ Ho: Diets help lose an equal or less amount (lbs) of fat than does excercise (p 
 
 Ha: Diets help lose more fat (lbs) than excercise (p = 0.05). Diets > Excercise
 ####Do Americans trust the president?
-Ho: Americans do not trust or are ambivalent towards the president (p = 0.05). P(yes) <= 0.5.
+Ho: Americans do not trust the president more than would be expected from a binomial distribution (p = 0.05). P(yes) <= 0.5.
 
-Ha: Americans do trust the president (p = 0.05). P(yes) > 0.5.
+Ha: Americans do trust the president more than would be expected from a binomial distribution (p = 0.05). P(yes) > 0.5.
 
 ####Effectiveness of nicotine patches to quit smoking.
 Ho: Nicotine patches cause cessation rates to be equal or less than control patches (p = 0.05). P(Cessation|Patch) <= P(Cessation|Control).
