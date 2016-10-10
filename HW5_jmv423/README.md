@@ -41,8 +41,8 @@ Ho: Nicotine patches cause cessation rates to be equal or significantly less tha
 Ha: Nicotine patches cause cessation rates to be significantly larger than with the control patches (p = 0.05). P(Cessation|Patch) > P(Cessation|Control).
 
 ####Quantify the danger of smoking for pregnant women.
-Ho: The IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly equal or greater than children whose mothers did not smoke. IQsmokers >= IQnonsmokers.
+Ho: The mean IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly equal or greater than children whose mothers did not smoke. IQsmokers >= IQnonsmokers.
 
-Ha: The IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly less than children whose mothers did not smoke. IQsmokers < IQnonsmokers.
+Ha: The mean IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly less than children whose mothers did not smoke. IQsmokers < IQnonsmokers.
 ####Work Breakdown
 All work done by Jordan Vani
