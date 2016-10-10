@@ -23,26 +23,26 @@ All work done by Jordan Vani
 8. Described the results in terms of race.
 
 ####Work Breakdown
-All work done by Jordan Vani
+All work done by Jordan Vani. Helped Tashay with some questions.
 
 ##Assignment 3: Practice formulating the null hypothesis
 ####Do diets help lose more fat than excercise?
-Ho: Diets help lose an equal or less amount (lbs) of fat than does excercise (p = 0.05). Diets <= Excercise
+Ho: Diets help lose an equal or significantly less amount (lbs) of fat than does excercise (p = 0.05). Diets <= Excercise
 
-Ha: Diets help lose more fat (lbs) than excercise (p = 0.05). Diets > Excercise
+Ha: Diets help lose significantly more fat (lbs) than excercise (p = 0.05). Diets > Excercise
 ####Do Americans trust the president?
-Ho: Americans do not trust the president more than would be expected from a binomial distribution (p = 0.05). P(yes) <= 0.5.
+Ho: Americans do not trust the president significantly more or equal than would be expected from a binomial distribution (p = 0.05). P(yes) <= 0.5.
 
-Ha: Americans do trust the president more than would be expected from a binomial distribution (p = 0.05). P(yes) > 0.5.
+Ha: Americans do trust the president significantly more than would be expected from a binomial distribution (p = 0.05). P(yes) > 0.5.
 
 ####Effectiveness of nicotine patches to quit smoking.
-Ho: Nicotine patches cause cessation rates to be equal or less than control patches (p = 0.05). P(Cessation|Patch) <= P(Cessation|Control).
+Ho: Nicotine patches cause cessation rates to be equal or significantly less than control patches (p = 0.05). P(Cessation|Patch) <= P(Cessation|Control).
 
-Ha: Nicotine patches cause cessation rates to be larger than with the control patches (p = 0.05). P(Cessation|Patch) > P(Cessation|Control).
+Ha: Nicotine patches cause cessation rates to be significantly larger than with the control patches (p = 0.05). P(Cessation|Patch) > P(Cessation|Control).
 
 ####Quantify the danger of smoking for pregnant women.
-Ho: The IQ of children with mothers who smoked during their pregnancy is equal or greater than children whose mothers did not smoke. IQs >= IQn.
+Ho: The IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly equal or greater than children whose mothers did not smoke. IQsmokers >= IQnonsmokers.
 
-Ha: The IQ of children with mothers who smoked during their pregnancy is less than children whose mothers did not smoke. IQs < IQn.
+Ha: The IQ of children ages 1-4 with mothers who smoked during their pregnancy is significantly less than children whose mothers did not smoke. IQsmokers < IQnonsmokers.
 ####Work Breakdown
 All work done by Jordan Vani
