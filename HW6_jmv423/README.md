@@ -1,6 +1,10 @@
 #HW6_jmv423
 Jordan Vani (10/16/2016)
 
+###Assignment 1: NYC Buildig Energy Usage
+
+####Work Breakdown
+
 ###Assignment 2: Citibike mini-project
 [See Jupyter Notebook](https://github.com/jvani/PUI2016_jmv423/blob/master/HW6_jmv423/Assignment2_jmv423.ipynb)
 
