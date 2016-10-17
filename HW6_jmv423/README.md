@@ -8,11 +8,14 @@ Jordan Vani (10/16/2016)
 3. Energy and building data are merged based on BBL. SiteEUI is converted to numeric value.
 4. Scatter matrix of merged data is plotted.
 5. Energy consumption vs. number of units is plotted.
-6. Log number of units vs. log total energy is plotted.
-7. Linear models are created for both log energy vs. log units and log units vs. log energy using the statsmodels.formula.api module.
-8. NEED TO EXPLAIN THE CHI SQUARE EVALUATION.
-9. A 2nd order polynomial is fitted to log energy vs. log units. 
-10. NEED TO EXPLAIN THE LIKELIHOOD EVALUATION.
+6. I dropped all rows where the # of units or energy usage was less than 1. 
+7. I added columns to my dataframe where I calculated the log values of the unit tota and energy use total.
+8. I then dropped all rows where the log of the units total was less than 1.
+9. Log number of units vs. log total energy is plotted.
+10. Linear models are created for both log energy vs. log units and log units vs. log energy using the statsmodels.formula.api module.
+11. The chi-square values were calculated for both linear models and compared to assess, which model was a better fit to the data. The units vs. energy model returned a lower chi square value indicating a better fit. 
+12. A 2nd order polynomial is fitted to log energy vs. log units using the statsmodels.formula.api module. 
+13. The likelihood ratio was calculate to test if the polynomial model was a better fit than the linear model. Since the comparison returned a p-value of ~ 0 we could reject the null hypothesis and accept the alternative hypothesis: the second order polynomial fits the data significantly better than the linear model.
 
 ####Work Breakdown
 Ben Miller explained curl-ing data to PUIDATA. Reviewed assignment with Tashay Green.
