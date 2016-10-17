@@ -1,7 +1,8 @@
 #HW6_jmv423
 Jordan Vani (10/16/2016)
 
-###Assignment 1: NYC Buildig Energy Usage
+###Assignment 1: NYC Building Energy Usage
+[See Jupyter Notebook](https://github.com/jvani/PUI2016_jmv423/blob/master/HW6_jmv423/Assignment1_jmv423.ipynb)
 
 1. Energy data is accessed directly from NYC open data and read into a DataFrame. Unnecessary columns and rows with NaN are dropped.
 2. Building data is curled into PUIDATA, unzipped, and the shapefile is loaded into a DataFrame. Unnecessary columns and rows with NaN are dropped.
