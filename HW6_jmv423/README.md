@@ -19,7 +19,7 @@ Jordan Vani (10/16/2016)
 13. The likelihood ratio was calculate to test if the polynomial model was a better fit than the linear model. Since the comparison returned a p-value of ~ 0 we could reject the null hypothesis and accept the alternative hypothesis: the second order polynomial fits the data significantly better than the linear model.
 
 ####Work Breakdown
-Ben Miller explained curl-ing data to PUIDATA. Reviewed assignment with Tashay Green.
+Ben Miller explained curl-ing data to PUIDATA, I subsequently explained unzipping data to Francis Ko. Reviewed assignment with Tashay Green.
 
 ###Assignment 2: Citibike mini-project
 [See Jupyter Notebook](https://github.com/jvani/PUI2016_jmv423/blob/master/HW6_jmv423/Assignment2_jmv423.ipynb)
