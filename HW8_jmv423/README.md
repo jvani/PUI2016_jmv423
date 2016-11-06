@@ -6,7 +6,7 @@ Jordan Vani (10/24/2016)
 2. Merged 311 complaints, income, and broadband data on the ID field.
 3. Ran regression and correlation on the dataset, and a subset of the data excluding wealthy neighborhoods.
 
-Conclusion: 
+In conclusion, when using the full dataset of community districts, the amount of 311 complaints would be highest where per capita income and percent of households with mobile broadband is highest. However, when excluding wealthy neighborhoods with per capita income in excess of 60,000, only per capita income correlates positively with 311 complaints.
 
 ####Work Breakdown
 All work done by Jordan Vani
