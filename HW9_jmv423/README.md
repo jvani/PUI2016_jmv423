@@ -36,4 +36,4 @@ Jordan Vani (14/11/2016)
 4. Plot PCA transformed data labelled by cluster.
 
 ####Work Breakdown
-All work done by Jordan Vani
+All work done by Jordan Vani, reviewed with Tashay Green.
