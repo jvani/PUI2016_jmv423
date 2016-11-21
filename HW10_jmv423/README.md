@@ -6,5 +6,18 @@ Using Sina Kashuk's provided notebook I split the citibike data into two subsets
 
 The slight differences in autocorrelation strength may be a result of fewer people using citibike outside of existing hotspots. As such, the ridership is slightly more concentrated in the winter in the summer. Together these two insights make sense, given how people are less likely to ride to distant areas in the winter as a result of the weather.
 
+Steps:
+1. Download and load all data.
+2. Examine seasonality of data by plotting boxplots for monthly ridership.
+3. Visualize seasonal trends using the sm.tsa.seasonal_decompose function.
+4. Intersect Citibike station geometry with census tract.
+5. Break down resulting dataset into 'winter' & 'summer' average the rides accordingly.
+6. Plot ridership heatmap.
+7. Edit shapefile, and re plot ridership heatmap.
+8. Calculate spatial lag & quantiles for neighbors in each winter and summer subsets.
+9. Plot spatial lag.
+10. Plot the Moran's scatterplot & KDE plot of Morans I for both winter and summer.
+11. Ultimately, plot the hot and cold spots based on the local spatial autocorrelation.
+
 ###Work Breakdown
 All work and interpretation done by Jordan Vani.
